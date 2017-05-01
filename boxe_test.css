@@ -1,0 +1,77 @@
+
+
+h1{
+	color: blue;
+	text-align:center;
+}
+
+.container{
+	border:2px solid red;
+	height:90vh;
+
+	display:flex;
+	flex-direction : column;
+
+
+}
+.flexbody{
+	flex:1;
+	display:flex;
+	flex-direction: row;
+}
+.item{
+	border: 2px solid black;
+	text-align: center;
+	font-size:2em;
+	margin:5px;
+	padding:5px;
+
+
+}
+.header{
+	background-color: silver;
+}
+.menuleft{
+	background-color: #2DC3AF;
+	height:60vh;
+	color:white;
+}
+.aside{
+	background-color: #006D71;
+}
+.content{
+	background-color: navy;
+	flex:1;
+	padding-left: 40px;
+}
+.footer{
+	background-color: black;
+	color:white;
+}
+body{
+	margin:0;
+}
+.block_note {
+	border: 2px solid black;
+	background-color: silver;
+	height:100px;
+	width:100px;
+	float: right;
+}
+.bouton_1{
+	background:blue;
+	border:1px solid black;
+	text-decoration:none;
+	font-size:20px;
+}
+.retour_page{
+	background:blue;
+	border:1px solid black;
+	color:white;
+	text-decoration:none;
+}
+p {
+	font-size: 20px;
+	margin: 10px;
+	text-align:justify;
+}
