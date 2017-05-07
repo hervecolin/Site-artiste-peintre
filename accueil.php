@@ -16,7 +16,7 @@
   		<div class="flexbody">
     		<div class="menuleft item">
         		<ul>
-        		    <li><a href="Ma galerie photos.pdf">La newsletter</a></li>
+        		    <li><a href="NewsLetter n°1.pdf">La newsletter</a></li>
           			<br/>
           			<li><a href="Dossier artistique hervé COLIN 2 ok.pdf">Le dossier artistique</a></li>
           			<br/>
