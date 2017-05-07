@@ -15,15 +15,18 @@
    	 <a href="https://www.deezer.com/fr/"><img class="deezer" src ="img/logo_deezer.png"/></a>
    	 <a href="https://www.spotify.com/fr/"><img class="spotify" src ="img/logo_spotify_2.png"/></a>
   </div>
+    <div class="menu">
     		<a class="bouton_1"href="Historique.html">Présentation de l'artiste</a>
     		<a class="bouton_2"href="inscription.php">Formulaire</a>
     		<a class="bouton_3" href="Ma galerie photos.pdf">Mes tableaux</a>
-    		<a class="bouton_4"href="contact_site_coq_1.php">Me contacter !</a>
+    		<a class="bouton_4"href="contact_site_coq_1.php">Me contacter !</a><br/>
+
         <br/>
   		  <form method="get" action="https://www.google.fr/?gfe_rd=cr&ei=3hYuWOCjD-3S8Aecr7KIBg&gws_rd=ssl">
-          <input type="text" name="q"/>
+          <input type="text" name="q" placeholder="    ?"/>
           <input type="submit" value="Rechercher">
        </form>
-  	  </div>
+  </div>
+</div>
 	</body>
 </html>

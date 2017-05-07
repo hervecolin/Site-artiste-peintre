@@ -145,6 +145,7 @@ body a {
   left: 20px;
   height: 60px;
   width: 60px,
+  border-radius: 5px;
 }
 
 .menu {
@@ -153,6 +154,7 @@ body a {
   position: absolute;
   top: 120px;
   right: 320px;
+  border-radius: 5px;
 }
 
 .twiter {
@@ -160,12 +162,14 @@ body a {
   height: 50px;
   width: 40px;
   float: right;
+  border-radius: 5px;
 }
 
 .face {
   height: 50px;
   width: 40px;
   float: right;
+  border-radius: 5px;
 }
 
 
@@ -209,6 +213,7 @@ body a {
   /*mon image de fon cool */
   background-repeat: no-repeat;
   background-size: 100%;
+  border-radius: 5px;
 }
 
 .pub {
@@ -216,13 +221,14 @@ body a {
   position: absolute;
   top: 50px;
   right: 90px;
-  width: 700px;
-  height: 700px;
+  width: 650px;
+  height: 690px;
   background-color: grey;
   font-family: Equal Sans Demo;
   font-size: 30px;
   color: #01A9DB;
   text-align: center;
+  border-radius: 5px;
 }
 
 .valider {
