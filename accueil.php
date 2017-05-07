@@ -47,7 +47,11 @@
               </script>
             </div>
           </div>
-  		    <div class="aside item"></div>
+  		    <div class="aside item">
+            <div class="aside2"><br/>
+              <img class="aside2" src="img/waterGameR.jpg"/>
+            </div>
+          </div>
   		</div>
 		   <div class="footer item">  © Copyright H.COLIN  2017 </div>
 	 </div>

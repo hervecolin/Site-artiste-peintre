@@ -22,7 +22,7 @@
 		echo 'Vous êtes membre : Bienvenue !';
 	   }
     else{
-		echo 'Vous n\'êtes pas membre ! No Enter...';
+		echo 'Vous allez recevoir le password membre...';
 	  }
 	?>
 	 </p>

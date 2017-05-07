@@ -45,11 +45,11 @@ flex:1;*/
 .aside{
 	background-image:url(img/tableauOk-r.jpg);
 	background-repeat:no-repeat;
-	background-size:120%;
+	background-size:100%;
 	text-align:bottom;
-	width:100%;
-	/*height:550px;*/
-	margin-right: 20px;
+	width: 900px;
+	height:550px;
+	margin-right: 30px;
 	border-radius: 5px;
 }
 .footer{
@@ -209,4 +209,12 @@ a{
 	position: absolute;
 	top: 150px;
 	right:500px;
+}
+.aside2{
+	position: absolute;
+	top: 260px;
+	right:20px;
+	height: 150px;
+	width: 150px;
+	border-radius: 5px;
 }
