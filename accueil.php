@@ -5,6 +5,7 @@
 	    <link rel="stylesheet"type="text/css" href="boxe_test_2.css"/>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 	    <title>Site Hervé COLIN artiste peintre</title>
+
 </head>
 <body>
 	  <div class="container">
@@ -23,7 +24,7 @@
           			<br/>
           			<li><a href="http://www.nantes.maville.com/sortir/agenda_liste.php">Sortir à Nantes !</a></li>
           			<br/>
-          			<li><a href="https://fr-fr.facebook.com/login.php">Connection to Faceboock !</a></li>
+          			<li><a href="https://44.agendaculturel.fr/lieux-culturels/nantes/galerie-d-art/">Galerie d'art à Nantes !</a></li>
         		</ul>
         		   <form  class="password" method="Post" action="boxe_test_cible.php"> <!--Attention formulaire de message commenté et a traiter !!-->
           		  <label type="password" name="pass">Entrez votre password</label>
@@ -48,7 +49,7 @@
           </div>
   		    <div class="aside item"></div>
   		</div>
-		   <div class="footer item">  © Copyright H.COLIN  2016 </div>
+		   <div class="footer item">  © Copyright H.COLIN  2017 </div>
 	 </div>
 </body>
 </html>

@@ -39,7 +39,7 @@ session_start();       //initialisation de ma session
        <fieldset>
         <legend>4 Bonnes raisons de s'inscrire !</legend>
            <label for="commenter">Commenter mes tableaux !</label><br/>
-           <img src="img/Image30R.png" width="400px" height="120" /><br/>
+           <img src="img/Image1R.png" width="400px" height="120" /><br/>
            <label for="noter">Soutenir l'artiste !</label><br/>
            <img src="img/Image6R.png" width="400px" height="120" /><br/>
            <label for="proposer">Proposer des projets !</label><Br/>

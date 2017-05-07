@@ -168,29 +168,6 @@ body a {
   float: right;
 }
 
-.link {
-  height: 50px;
-  width: 40px;
-  float: right;
-}
-
-.deezer {
-  height: 50px;
-  width: 80px;
-  float: right;
-}
-
-.spotify {
-  height: 50px;
-  width: 80px;
-  float: right;
-}
-
-.you {
-  height: 50px;
-  width: 80px;
-  float: right;
-}
 
 .inscription {
   /*css inscription*/
@@ -237,7 +214,7 @@ body a {
 .pub {
   /*mon css accroche inscription*/
   position: absolute;
-  top: 110px;
+  top: 50px;
   right: 90px;
   width: 700px;
   height: 700px;
