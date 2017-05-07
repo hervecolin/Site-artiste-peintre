@@ -34,11 +34,11 @@ width:600px;
 .adresse{                      /* info Mon adresse*/
 	color:white;
 	font-family:Equal Sans Demo;
-	font-size: 35px;
+	font-size: 30px;
 }
 .map{                            /*La carte google !*/
-	padding:110px;
-	font-size:100px;
+	padding:120px;
+	font-size:95px;
 }
 .message{                            /*formulaire message !*/
 	background-color: white;
@@ -55,7 +55,7 @@ width:600px;
 	background-color: linear-gradient(to top,aqua,silver,aqua);
 	color:white;
 	font-family:Equal Sans Demo;
-	font-size: 45px;
+	font-size: 40px;
 }
 .btn {                                     /*Mon bouton valider du formulaire !!*/
 text-decoration: none;
@@ -96,4 +96,7 @@ box-shadow: 1px 1px 4px silver;
 	border:3px solid navy;
 }a{
 	text-decoration: none;
+	background-color: grey;
+	border-radius: 5px;
+	padding: 5px;
 }
