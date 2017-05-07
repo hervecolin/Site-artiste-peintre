@@ -7,7 +7,7 @@
    <body>
       <div class= "header item">
   		<img class="logo"src="img/Image2.png"/>
-       <h1>Hervé COLIN artiste peintre !</h1>
+       <h1>Hervé COLIN Artiste Peintre !</h1>
        <div class="reseau">            <!--ma div réseau-->
       <a href="https://twitter.com/login"><img class="twiter" src ="img/logo_twiter.jpg"/></a>
    	 <a href="https://fr-fr.facebook.com/login/"><img class="face" src ="img/logo_face.png"/></a>
@@ -23,7 +23,7 @@
 
         <br/>
   		  <form method="get" action="https://www.google.fr/?gfe_rd=cr&ei=3hYuWOCjD-3S8Aecr7KIBg&gws_rd=ssl">
-          <input type="text" name="q" placeholder="    ?"/>
+          <input type="text" name="q" placeholder=" "/>
           <input type="submit" value="Rechercher">
        </form>
   </div>
